@@ -79,4 +79,11 @@ Weight-and-bias logs can be found [here](https://api.wandb.ai/links/keli/hmdlsn3
 
 ## How to Cite
 
-TK
+```
+@article{li2024dialogue,
+  title={Dialogue Action Tokens: Steering Language Models in Goal-Directed Dialogue with a Multi-Turn Planner},
+  author={Li, Kenneth and Wang, Yiming and Vi{\'e}gas, Fernanda and Wattenberg, Martin},
+  journal={arXiv preprint arXiv:2406.11978},
+  year={2024}
+}
+```
