@@ -1,9 +1,8 @@
 # Dialogue Action Tokens
 
-This repository provides the code for the paper [Dialogue Action Tokens: Steering Language Models in Goal-Directed Dialogue with a Multi-Turn Planner](https://arxiv.org). It shows how to apply Dialogue Action Tokens (DAT) to a LLaMA3-8B model to strengthen goal-directed dialogue capabilities. 
+This repository provides the code for the paper [Dialogue Action Tokens: Steering Language Models in Goal-Directed Dialogue with a Multi-Turn Planner](https://arxiv.org/abs/2406.11978). It shows how to apply Dialogue Action Tokens (DAT) to a LLaMA3-8B model to strengthen goal-directed dialogue capabilities. 
 
-Part of this project builds on top of [Sotopia](https://www.sotopia.world), [HarmBench](https://github.com/centerforaisafety/HarmBench) and [CleanRL](https://github.com/vwxyzjn/cleanrl).
-
+Part of this project builds on top of [Sotopia](https://www.sotopia.world), [HarmBench](https://github.com/centerforaisafety/HarmBench) and [CleanRL](https://github.com/vwxyzjn/cleanrl). [Kenneth Li](https://likenneth.github.io/) and [Yiming Wang](https://rubywong123.github.io) made equal contributions to this work.  
 
 ## Abstract
 
